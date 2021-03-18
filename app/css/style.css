@@ -3,3 +3,27 @@
     margin: 0px;
     box-sizing: border-box;
 }
+@font-face{
+    font-family: SourceS;
+    src:url(../font/Source_Sans_Pro.zip)
+}
+html, body, main {
+    height: 100%;
+    font-family: ;
+}
+.first{
+    height: 100%;
+    background-image: url(../img/img1.jpg);
+    background-position: center;
+    -webkit-bg-size: cover;
+    background-size: cover;
+}
+.first p{
+    color:white
+}
+.tourism{
+    width: 100px;
+    text-align: center;
+    padding-top: 80px;
+    
+}
